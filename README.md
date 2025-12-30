@@ -51,7 +51,7 @@ The analysis follows a structured experimentation framework:
 ## Key Findings
 - Assessed whether observed differences in conversion rates were statistically significant
 - Identified engagement patterns relevant to landing page effectiveness
-- Evaluated outcome metrics to reduce uncertainty in decision-making
+- Evaluated outcome metrics to reduce uncertainty and support confident rollout decisions
 - Demonstrated a repeatable experimentation framework applicable to real-world use cases
 
 ---
@@ -60,6 +60,7 @@ The analysis follows a structured experimentation framework:
 - Enabled data-backed decisions regarding landing page adoption
 - Reduced decision risk by validating product changes through statistical testing
 - Supported leadership with clear, actionable insights derived from experimental analysis
+- This analysis demonstrates how experimentation reduces risk before implementing customer-facing changes.
 
 ---
 
